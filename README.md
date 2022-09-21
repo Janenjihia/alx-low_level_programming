@@ -1,1 +1,1 @@
-C programming basics
+Advanced pointers and arrays
